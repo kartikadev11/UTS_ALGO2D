@@ -1,0 +1,11 @@
+
+Algoritma djikstra merupakan algoritma untuk mencari rute terpendek dari beberapa titik. 
+Jarak terpendek tersebut membentuk array dimana jika melewati titik atau jaraknya dekat berarti nilainya 1 dan tidak melewati nilainya 0.
+kumpulan matrix ini dinamakan adjacent matrix. dimana isi dari matrix itu adalah angka 1 dan 0. 
+contohnya adalah relationship pertemanan, jarak antar wilayah tegal, semarang, solo, yogyakarta, jakarta.
+misal jarak dari tegal ke semarang = 1
+semarang solo = 1
+solo tegal = 2 
+yogyakarta tegal = 3
+
+
